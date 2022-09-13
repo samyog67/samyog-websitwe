@@ -29,7 +29,7 @@
         <input type="radio" id="Gender" name="Gender" value="female"/>Female <br>
         <input type="radio" id="Gender" name="Gender" value="others"/>Others <br>     
          <br>Enter your address:<br>
-         <textarea>SAMYOG</textarea><br>
+         <textarea></textarea><br>
          <input type="submit" name="Submit">
      </fieldset>
  </form>
